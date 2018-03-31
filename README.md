@@ -1,1 +1,1 @@
-This is my nase docker image for scala development. Comes with openjdk 8, scala & sbt.
+This is my base docker image for scala development. Comes with openjdk 8, scala & sbt.
